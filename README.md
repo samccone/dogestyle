@@ -1,4 +1,5 @@
-# A dogebased style language
+A dogebased style language
+===========
 
 ## proposal
 
@@ -12,3 +13,26 @@ many {
   background: red
 }
 ```
+
+### very token
+```css
+very doge{
+  background: red
+}
+
+.doge {
+  background: red
+}
+```
+
+### such token
+```css
+such doge{
+  background: red
+}
+
+#doge {
+  background: red
+}
+```
+
